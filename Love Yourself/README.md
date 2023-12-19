@@ -11,10 +11,10 @@ The concept of this work is self-love and simplicity. I like setting these kind 
 Since the concept is “self-love”, I relied on the colors associated with love, such as red, white and black (as they’re basic colors). I also played around with the opacity of the text, and created a fade-away effect for the text as it progresses down the row.
 
 ***
-![](bin/img1.png)
+![](bin/img1.jpeg)
 
 ***
-![](bin/img2.png)
+![](bin/img2.jpeg)
 
 
 **Code:**
